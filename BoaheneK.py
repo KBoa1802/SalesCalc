@@ -1,8 +1,4 @@
 import example
-# My words and actions will reflect Academic Integrity.
-# I will not cheat or lie or steal in academic matters.
-# I will promote integrity in the UNCG community.
-# Student’s Signature: Kwadwo Boahene Date: 10/31/22
 
 # identifiers
 TAX_RATE = .07
